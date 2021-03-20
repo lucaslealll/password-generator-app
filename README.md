@@ -52,7 +52,7 @@ Smartphone emulator or [Expo Go app](https://play.google.com/store/apps/details?
 ```
 $ git clone https://github.com/lucasoal/app-password-generator
 
-$ cd app-weather
+$ cd app-password-generator
 ```
 
 **Installing dependencies**
