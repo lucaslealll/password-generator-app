@@ -15,9 +15,7 @@ _"Create randomized passwords for personal use"._
 
 This project aimed to learn and start studies on mobile application development, learn about new languages, APIs, frameworks and challenge me.
 
-Send me an email: lucasomarandradeleal@gmail.com
-
-Connect to my [Linkedin](https://linkedin.com/in/lucasomarandradeleal)
+Connect to my [Linkedin](https://linkedin.com/in/lucasleall)
 
 Feel free to use it as a study and make improvements.
 
@@ -27,7 +25,7 @@ Feel free to use it as a study and make improvements.
 
 If you want to test the application, click the button below:
 
-[Download Android .apk installer](https://github.com/lucasoal/app-password-generator/raw/master/password-generator-v0100.apk)
+[Download Android .apk installer](https://github.com/lucaslealll/app-password-generator/raw/master/password-generator-v0100.apk)
 
 iOS .ipa installer: Soon!
 
